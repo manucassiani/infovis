@@ -1,14 +1,22 @@
 # infovis
 
 ## TP1-Datos Personales
-El trabajo práctico consiste en utilizar un dataset con información personal, con una historia de al menos una semana.
+El trabajo práctico consiste en utilizar un conjunto de datos con información personal, abarcando una historia de al menos una semana.
 
-En este caso se utilizaron datos de salarios y gastos realizados de manera mensual desde el mes de Marzo del 2021 hasta el mes de Abril del 2023. Los montos, por una cuestión de privacidad, fueron anonimizados, para llevar a cabo este proceso se dividieron los montos por aquel mas pequeño del período, con el objetivo de normalizar estos valores y poder apreciar cuanto creció o disminuyo el salario en el tiempo. 
+En este caso, se emplearon datos de salarios y gastos mensuales desde marzo de 2021 hasta abril de 2023. Para resguardar la privacidad, los montos fueron anonimizados. Para lograr esto, se dividieron los montos por el valor del salario más bajo del período, con el propósito de normalizar los valores y observar las variaciones en los salarios a lo largo del tiempo.
 
-Por otro lado para el cálculo del precio del dolar se utilizó la siguiente página https://www.dolarito.ar/ . De esta página se extrajo el precio de compra/venta máximo y mínimo por cada mes, luego se hizo un promedio de estos cuatro valores para cada mes.
+Por otro lado, se utilizó la siguiente página web, https://www.dolarito.ar/, para calcular el precio del dólar. Se extrajeron los valores máximos y mínimos de compra y venta para cada mes, y se calculó un promedio basado en esos cuatro valores.
 
-Finalmente para el cálculo de la inflación se obtuvo la iformación de la siguiente página http://estudiodelamo.com/inflacion-argentina-anual-mensual/ .
+Finalmente, se obtuvo la información sobre la inflación desde el siguiente sitio web: http://estudiodelamo.com/inflacion-argentina-anual-mensual/.
 
+Variables observadas en las siguientes imágenes:
+- Salario: sueldo mensual.
+- Gimnasio: cuota mensual gimnasio.
+- Departamento: gastos de alquiler y expensas.
+- Tarjeta: gastos mensuales de tarjeta.
+- Diarios: gastos comunes del día a día que no entran en el resto de las categorías.
+- Vehículo: gastos relacionados con el auto. Cochera, seguro, patente y mantenimiento.
+- Extra: gastos extraordinarios, compra de divisas, inversión, etc.
 
 ### 1-Salario normalizado en pesos y en dólares.
 [![Salario normalizado en pesos y en dólares](imagenes/1-saldos_primer_grafico.png)](https://flo.uri.sh/visualisation/13759331/embed)
