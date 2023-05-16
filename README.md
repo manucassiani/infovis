@@ -9,8 +9,23 @@ Por otro lado para el cálculo del precio del dolar se utilizó la siguiente pá
 
 Finalmente para el cálculo de la inflación se obtuvo la iformación de la siguiente página http://estudiodelamo.com/inflacion-argentina-anual-mensual/ .
 
-### 1-Salario normalizado en pesos y en dólares
+### 1-Salario normalizado en pesos y en dólares.
 
 <iframe src='https://flo.uri.sh/visualisation/13759331/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
+### 2-Gráfico de lineas: salario, Inflación, Precio Dolar.
 
+<iframe src='https://flo.uri.sh/visualisation/13758242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
+### 3-Gráfico de columnas: salario descriminado por gastos mensuales.
+
+<iframe src='https://flo.uri.sh/visualisation/13758150/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
+
+### 4-Gráfico de torta: avance gastos mensuales en todo el período de estudio (2021-03 hasta 2023-04).
+
+<iframe src='https://flo.uri.sh/visualisation/13758124/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
+### 5-Gráfico Sunburst: gráfico de donas multianillo ampliable.
+
+<iframe src='https://flo.uri.sh/visualisation/13757698/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
